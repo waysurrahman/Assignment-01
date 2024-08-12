@@ -402,3 +402,8 @@ main {
 .color{
     color: #0D1321;
 }
+
+/* challenge part */
+html {
+    scroll-behavior: smooth;
+  }
